@@ -1,5 +1,3 @@
-KeepAlive = {};
-
 KeepAlive.init = function(opt){
   if(!opt)
     opt = {};
